@@ -13,9 +13,10 @@ This project analyzes all 5-man lineups used by the Miami Heat through the early
 The goal is to identify which lineups are most effective — offensively, defensively, and overall — and to visualize how lineup synergy shapes team performance.
 
 🛠️ Features
-✔ Automated lineup data extraction
-Using nba_api to pull all Heat 5-man lineup stats and save them to CSV.
-✔ Player attribute tagging
+- Automated lineup data extraction
+- Using nba_api to pull all Heat 5-man lineup stats and save them to CSV.
+- Player attribute tagging
+
 Each player is manually labeled for:
 - Shooting
 - Defense
