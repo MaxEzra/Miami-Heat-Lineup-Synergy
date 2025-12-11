@@ -1,7 +1,7 @@
 📊 Miami Heat Lineup Synergy Analysis (2025–26 Season)
 A data-driven look at lineup efficiency, synergy tags, and early-season trends for the Miami Heat.
 
-🔥 Overview
+Overview
 
 This project analyzes all 5-man lineups used by the Miami Heat through the early portion of the 2025–26 NBA season, using:
 - Python
