@@ -46,8 +46,26 @@ Includes:
 📈 Example Visual: Synergy Scatterplot
 ![Synergy Scatterplot](images/synergy_scatterplot.png)
 
-🗂️ Project Structure
-<pre><code> ``` Miami-Heat-Lineup-Synergy/ │ ├── data/ │ ├── raw/ # CSV pulled from nba_api │ └── processed/ # future cleaned datasets │ ├── notebooks/ │ └── 01_lineup_synergy_eda.ipynb │ ├── src/ │ ├── get_lineups.py │ └── __init__.py │ ├── images/ # visualizations for README ├── requirements.txt └── README.md ``` </code></pre>
+## Project Structure
+
+```
+Miami-Heat-Lineup-Synergy/
+│
+├── data/
+│ ├── raw/ # CSV pulled from nba_api
+│ └── processed/ # future datasets
+│
+├── notebooks/
+│ └── 01_lineup_synergy_eda.ipynb
+│
+├── src/
+│ ├── get_lineups.py
+│ └── init.py
+│
+├── images/
+├── requirements.txt
+└── README.md
+```
 
 🧩 How It Works (Short Version)
 
