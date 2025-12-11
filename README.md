@@ -10,7 +10,7 @@ This project analyzes all 5-man lineups used by the Miami Heat through the early
 - matplotlib
 - Custom synergy tagging logic
 
-The goal is to identify which lineups are most effective — offensively, defensively, and overall — and to visualize how lineup synergy shapes team performance.
+The goal is to identify which lineups are most effective offensively, defensively, and overall and to visualize how lineup synergy shapes team performance.
 
 🛠️ Features
 - Automated lineup data extraction
